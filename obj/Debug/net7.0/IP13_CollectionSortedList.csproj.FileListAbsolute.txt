@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/bin/Debug/net7.0/IP13_CollectionSortedList
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/bin/Debug/net7.0/IP13_CollectionSortedList.deps.json
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/bin/Debug/net7.0/IP13_CollectionSortedList.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/bin/Debug/net7.0/IP13_CollectionSortedList.dll
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/bin/Debug/net7.0/IP13_CollectionSortedList.pdb
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/obj/Debug/net7.0/IP13_CollectionSortedList.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/obj/Debug/net7.0/IP13_CollectionSortedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/obj/Debug/net7.0/IP13_CollectionSortedList.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/obj/Debug/net7.0/IP13_CollectionSortedList.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/obj/Debug/net7.0/IP13_CollectionSortedList.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/obj/Debug/net7.0/IP13_CollectionSortedList.dll
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/obj/Debug/net7.0/refint/IP13_CollectionSortedList.dll
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/obj/Debug/net7.0/IP13_CollectionSortedList.pdb
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/obj/Debug/net7.0/IP13_CollectionSortedList.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/IP13_CollectionSortedList/IP13_CollectionSortedList/obj/Debug/net7.0/ref/IP13_CollectionSortedList.dll
